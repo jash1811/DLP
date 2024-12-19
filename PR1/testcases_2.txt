@@ -1,0 +1,21 @@
+a+bb
+
+Question-a*bb 
+
+aaab -Not Accepted 
+Aabb -Not Accepted
+^    -Not Accepted
+bbbb -Not Accepted
+aaa  -Not Accepted
+baaabb -Not Accepted
+aaabbb -Not Accepted
+baaabb -Not Accepted
+aaaab  -Not Accepted
+abbabb -Not Accepted
+abb    -Accepted
+aaaaabb-Accepted
+
+
+
+
+
