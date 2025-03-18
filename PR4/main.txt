@@ -1,0 +1,2 @@
+numer of white space,Special character
+along that how many identifire that in the input and how many literals are there.

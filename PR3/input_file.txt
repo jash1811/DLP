@@ -1,0 +1,25 @@
+Implementation of a lexical analyser for C language compiler that takes input from any c file like 'temp.c'.
+1. Tockenize input string
+2. remove comments
+3. remove white spaces
+4. entering identifiers into symbol table
+5. generating lexical errors
+
+input should contain keyword, identifier, constsnts, strings, punctuation, operators, comments and white spaces
+
+int main() {
+int a=5, 7H;
+// assing value
+char b='x';
+/*return 
+value */
+return a+b;
+}
+
+output in tokenized category in keyword, identifier, punctuation, operator, constatnt, string, identifier for all individual char like keyword: int, identifier: main, identifier:a , etc...
+
+Lexical error: if any like invalid words like 7H
+
+Symbol table entries:
+1. a
+2. b
